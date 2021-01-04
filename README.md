@@ -140,7 +140,7 @@ Project Link: [https://github.com/UAntonio/memoryProject](https://github.com/UAn
 ## Acknowledgements
 
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
-* []()
+* [JavaScript Mastery](https://www.youtube.com/watch?v=ngc9gnGgUdA&t=2s)
 
 
 
